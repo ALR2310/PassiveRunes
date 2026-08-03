@@ -1,0 +1,15 @@
+# Visual Studio / MSBuild build output
+bin/
+obj/
+
+# Visual Studio user/workspace files
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Reverse-engineering scratch output (regenerable via reverse_engineering/DumpAll.java)
+reverse_engineering/*.txt

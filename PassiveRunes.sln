@@ -1,0 +1,25 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PassiveRunes", "PassiveRunes.vcxproj", "{F233B23D-C368-47FD-8C6A-E737D81AB565}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F233B23D-C368-47FD-8C6A-E737D81AB565}.Debug|x64.ActiveCfg = Debug|x64
+		{F233B23D-C368-47FD-8C6A-E737D81AB565}.Debug|x64.Build.0 = Debug|x64
+		{F233B23D-C368-47FD-8C6A-E737D81AB565}.Release|x64.ActiveCfg = Release|x64
+		{F233B23D-C368-47FD-8C6A-E737D81AB565}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C319279-E771-4F57-90F8-53C02C6790B2}
+	EndGlobalSection
+EndGlobal
